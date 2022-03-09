@@ -1,3 +1,3 @@
 # Skip
 Max4Live device for CD fetishists
-(main/SkipInfo.jpg)
+(https://github.com/Bienoise/Skip/blob/main/SkipInfo.jpg)
