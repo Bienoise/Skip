@@ -1,3 +1,3 @@
 # Skip
 Max4Live device for CD fetishists
-(SkipInfo.jpg)
+(main/SkipInfo.jpg)
